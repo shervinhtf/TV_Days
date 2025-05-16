@@ -143,8 +143,17 @@ body {
         width: 90%;
     }
 
+    .header{
+        height: 300px;
+    }
+
+    .header img{
+        height: 100%;
+        object-fit: cover;
+    }
+
     .header-text{
         top: 15%;
-        transform: translate(-50%,0);
+        transform: translate(-50%,-50%);
     }
 }
