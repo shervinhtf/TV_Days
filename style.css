@@ -142,4 +142,9 @@ body {
         padding: 10px;
         width: 90%;
     }
+
+    .header-text{
+        top: 15%;
+        transform: translate(-50%,0);
+    }
 }
